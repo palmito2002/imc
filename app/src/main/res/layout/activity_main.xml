@@ -24,7 +24,7 @@
             android:layout_height="wrap_content"
             android:editable="true"
             android:ems="10"
-            android:hint="digite o seu peso"
+            android:hint="digite o seu peso:"
             android:inputType="number|numberDecimal" />
 
         <TextView
